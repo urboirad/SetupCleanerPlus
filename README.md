@@ -4,6 +4,9 @@
 
 SetupCleanerPlus is an enhanced version of SetupCleaner using PyQt5 designed to assist users in cleaning up files within a specified directory. The program allows users to select a directory, filter files based on extensions, view file details, and delete selected files.
 
+**Install**
+Dowload "src" folder and use the exe in "dist"
+
 **Features**
 
 **1. File Directory Selection**
