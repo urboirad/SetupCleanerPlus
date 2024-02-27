@@ -1,13 +1,13 @@
 ![scpLogo](https://github.com/urboirad/SetupCleanerPlus/assets/97897450/1bf45aba-a3d4-4ac4-94ca-d18b69fcc5b0)
 
-**Overview**
+# Overview
 
 SetupCleanerPlus is an enhanced version of SetupCleaner using PyQt5 designed to assist users in cleaning up files within a specified directory. The program allows users to select a directory, filter files based on extensions, view file details, and delete selected files.
 
-**Install**
+# Install
 Dowload "src" folder and use the exe in "dist"
 
-**Features**
+# Features
 
 **1. File Directory Selection**
 
@@ -35,7 +35,7 @@ Files modified within the selected date range are shown.
 The combined size of selected files is displayed at the top of the window.
 Size information is updated dynamically.
 
-**How to Use**
+# How to Use
 1. Click "Select File Directory" to choose a directory.
 2. Choose file extensions or categories from the dropdown list.
 3. Adjust the date range slider as needed.
